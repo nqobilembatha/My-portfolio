@@ -1,8 +1,5 @@
 # My-portfolio
 # Kindly find my portfolio below as a beginner software engineer in Power Learn Project.
-Sure! Here’s a simple and professional README template for a portfolio project. You can adapt this to suit your personal style or specific content:
-
-
 Welcome to My Portfolio!
 
 This is my personal portfolio showcasing my skills, projects, and experience. It serves as a central place to demonstrate my work, whether you’re a recruiter, collaborator, or just curious about what I do.
